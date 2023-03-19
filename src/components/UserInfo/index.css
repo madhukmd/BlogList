@@ -1,0 +1,22 @@
+/* * {
+  border: 1px solid blue;
+} */
+.userInfo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.avatar {
+  width: 100px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #12022f;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #616e7c;
+}

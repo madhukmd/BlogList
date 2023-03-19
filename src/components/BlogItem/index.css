@@ -1,0 +1,13 @@
+.list {
+  border-bottom: 1px solid #a7b7c7;
+}
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.date {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #a7b7c7;
+}
